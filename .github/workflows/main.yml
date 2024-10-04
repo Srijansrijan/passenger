@@ -69,7 +69,7 @@ jobs:
         cd frontend
         npm install --force
 
-    #-  name: Print GITHUB_RUN_RESULT
+    #-  name: Print GITHUB_RUN_RESULTs
     #   run: echo "GITHUB_RUN_RESULT: ${{ env.GITHUB_RUN_RESULT }}"
 
   
